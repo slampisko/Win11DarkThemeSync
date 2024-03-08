@@ -6,5 +6,5 @@ synchronized, it turns the Dark Theme on or off depending on the Night Light sta
 The current version also restarts explorer.exe -- I might decide to scrap that feature if it turns out to be intrusive.
 I am using it with the Windows Task Scheduler to run the check periodically.
 
-**Author**: slampisko
+**Author**: slampisko  
 **Original implementation date**: 2024-08-03
